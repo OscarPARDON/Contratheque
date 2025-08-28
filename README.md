@@ -28,6 +28,11 @@ Je m\'engage à vous répondre dans un délai de 48 heures.
 -   **Tâches planifiées :** Cron
 
 
+*Capture d'écran de la page principale*
+
+![alt text](https://OscarPARDON.github.io/content/images/cont_illu1.webp)
+
+
 ### Déploiement et environnement de production
 
 Pendant le développement, mon IDE était configuré pour synchroniser
@@ -80,6 +85,10 @@ mis en place deux environnements distincts :
 
 -   Jetons CSRF
 -   Validation des données
+
+*Capture d'écran de la page de la page de blocage*
+
+![alt text](https://OscarPARDON.github.io/content/images/cont_illu2.webp)
 
 
 ## Ce que le projet m\'a appris
